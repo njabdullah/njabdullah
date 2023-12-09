@@ -15,17 +15,17 @@
 ### 🛠 &nbsp;Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"  height="50">
-  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" height="50">
-  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="50">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="50">
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="50">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="50">
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="50">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" height="50">
-  <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255" height="50">
-  <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white&labelColor=blue" height="50">
-  <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white" height="50">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"  height="30">
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" height="30">
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="30">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="30">
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="30">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="30">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="30">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" height="30">
+  <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255" height="30">
+  <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white&labelColor=blue" height="30">
+  <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white" height="30">
 </div>
 
 
