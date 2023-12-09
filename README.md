@@ -28,6 +28,9 @@
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=flat&logoColor=white&labelColor=blue)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white)&nbsp;
 
+<br>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
