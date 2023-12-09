@@ -31,7 +31,7 @@
 <br>
 
 <!---
-### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/njabdullah">
@@ -46,3 +46,13 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/abdullahnasihjasir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=njabdullah&label=Profile%20Views&color=000000&style=flat" alt="njabdullah" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njabdullah&show_icons=true&theme=dark&locale=en&layout=compact" alt="njabdullah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njabdullah&show_icons=true&theme=dark&locale=en" alt="njabdullah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njabdullah&theme=dark" alt="njabdullah" /></p>
