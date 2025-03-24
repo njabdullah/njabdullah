@@ -1,16 +1,10 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdullah Nasih Jasir</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Abe -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abe</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I have a passion for data analysis and interpretation, transforming numbers into meaningful insights.\
 🎓 &nbsp;I'm currently studying Informatics Engineer at Sepuluh Nopember Institute of Technology.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Data Analyst, Data Science, and Data Engineer.
-<!--- ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
-<!--- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
-<!--- ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
-<!--- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,17 +24,6 @@
 <br>
 <br>
 
-<!---
-
-
-<p align="center">
-<a href="https://github.com/njabdullah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
--->
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -54,5 +37,4 @@
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njabdullah&show_icons=true&theme=dark&locale=en&layout=compact" alt="njabdullah" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njabdullah&show_icons=true&theme=dark&locale=en" alt="njabdullah" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njabdullah&theme=dark" alt="njabdullah" /></p>
