@@ -2,8 +2,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I have a passion for data analysis and interpretation, transforming numbers into meaningful insights.\
-🎓 &nbsp;I'm currently studying Informatics Engineer at Sepuluh Nopember Institute of Technology.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Data Analyst, Data Science, and Data Engineer.
 
 ### 🛠 &nbsp;Tech Stack
